@@ -34,8 +34,3 @@ as other banking customers by simply adding them as payees.
 1.Purpose-To register new customers
 2.Inputs-The required data for registration for a new customer in a bank
 3.Outputs-A success message to be displayed on successful registration or else an error message will be displayed
-
-######## USERS
-
-1.Customers
-1.Clients
