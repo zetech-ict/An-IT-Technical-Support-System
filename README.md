@@ -10,3 +10,27 @@ An I.T technical support system is a system that monitors and maintains the comp
 2. Client can do his/her operations comfortably without any risk or losing of his privacy.
 3. Clients doesn't need to go to the bank to do small operation.
 4. It helps the customer to be satisfied and comfortable in his choices, this protection contains customer’s account, money and his privacy.
+
+## Users
+
+1. Bank clients
+2. Bank Admins
+3. Bank customers
+
+## Technologies
+
+1. Javascript
+2. HTML,CSS
+3. PHP
+
+## Functional Requirement
+
+1. Security
+2. Accuracy
+3. Compliance
+
+## Non-Functional Requirement
+
+1. Usability
+2. Maintainability
+3. Perfomance
