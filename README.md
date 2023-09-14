@@ -2,9 +2,9 @@
 
 ## Table of Contents-
 
-[AN-IT-TECHNICAL-SUPPORT-SYSTEM](#an-it-technical-support-system)
+[AN-ONLINE-BANKING-MANAGEMENT-SYSTEM](#an-online-banking-management-system)
 
-- [AN-IT-TECHNICAL-SUPPORT-SYSTEM](#an-it-technical-support-system)
+- [AN-ONLINE-BANKING-MANAGEMENT-SYSTEM](#an-online-banking-management-system)
   - [Table of Contents-](#table-of-contents-)
   - [Introduction](#introduction)
   - [Objectives](#objectives)
